@@ -1,2 +1,2 @@
 # new_demo
-demo repo
+demo repo.
